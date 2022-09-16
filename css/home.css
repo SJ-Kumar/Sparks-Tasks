@@ -48,3 +48,14 @@ hr {
     background-image: url('../images/back.jpg');
   }
 }
+footer {
+
+  text-align: center;
+
+  padding: 3px;
+
+  background-color: rgb(235, 195, 181);
+
+  color: white;
+
+}  
